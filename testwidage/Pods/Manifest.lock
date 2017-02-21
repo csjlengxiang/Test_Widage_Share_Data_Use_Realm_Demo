@@ -1,0 +1,22 @@
+PODS:
+  - Mantle (2.1.0):
+    - Mantle/extobjc (= 2.1.0)
+  - Mantle/extobjc (2.1.0)
+  - Masonry (1.0.2)
+  - Realm (2.4.2):
+    - Realm/Headers (= 2.4.2)
+  - Realm/Headers (2.4.2)
+
+DEPENDENCIES:
+  - Mantle
+  - Masonry
+  - Realm
+
+SPEC CHECKSUMS:
+  Mantle: 2fa750afa478cd625a94230fbf1c13462f29395b
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  Realm: d27b758e12d62a3371879a065d4c40aa212c5a54
+
+PODFILE CHECKSUM: b4b6038865b89a823c6a712e196111cbc517bbe5
+
+COCOAPODS: 1.1.1
